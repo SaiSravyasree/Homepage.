@@ -1,17 +1,17 @@
-# Project: Netflix Homepage 
+# Project: Prime Homepage 
 
 ## Overview
 
 During my internship, I developed a web application:
-1. **Netflix Homepage**: A replica of the Netflix homepage featuring a movie browsing interface.
+1. **Prime Homepage**: A replica of the Aha homepage featuring a movie browsing interface.
 
 ## Table of Contents
 
-- [Netflix Homepage](#netflix-homepage)
+- [Prime Homepage](#Prime-homepage)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
 
-## Netflix Homepage
+## Prime Homepage
 
 ### Features
 
